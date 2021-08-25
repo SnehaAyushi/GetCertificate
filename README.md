@@ -1,2 +1,2 @@
 # GetCertificate
-https://snehaayushi.github.io/GetCertificate/
+https://snehaayushi.github.io/GetCertificate/index
